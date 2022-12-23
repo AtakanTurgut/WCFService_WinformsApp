@@ -1,0 +1,11 @@
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

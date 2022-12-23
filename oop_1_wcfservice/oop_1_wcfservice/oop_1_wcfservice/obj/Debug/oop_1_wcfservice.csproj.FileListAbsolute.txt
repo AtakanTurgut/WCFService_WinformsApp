@@ -1,0 +1,9 @@
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\obj\Debug\oop_1_wcfservice.csproj.AssemblyReference.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\obj\Debug\oop_1_wcfservice.csproj.CoreCompileInputs.cache
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\bin\oop_1_wcfservice.dll.config
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\bin\oop_1_wcfservice.dll
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\bin\oop_1_wcfservice.pdb
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\bin\MySql.Data.dll
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\obj\Debug\oop_1_wcfservice.csproj.CopyComplete
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\obj\Debug\oop_1_wcfservice.dll
+D:\Sdü Ders Notları\- Bilgisayar Müh\__Nesneye Yönelik Programlama_23\oop_1_wcfservice\oop_1_wcfservice\oop_1_wcfservice\obj\Debug\oop_1_wcfservice.pdb
