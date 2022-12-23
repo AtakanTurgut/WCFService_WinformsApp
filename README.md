@@ -1,4 +1,3 @@
-## WCFService_WinformsApp
 ### WCF and Winforms Application
 ---
 ![](/pictures/winformsWorked.PNG)
